@@ -1,0 +1,222 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<map>
+  <item key="L3VtYnJhY28vYXNzZXRzL2Nzcy91bWJyYWNvLmNzczsvdW1icmFjby9saWIvYm9vdHN0cmFwLXNvY2lhbC9ib290c3RyYXAtc29jaWFsLmNzczsvdW1icmFjby9saWIvZm9udC1hd2Vzb21lL2Nzcy9mb250LWF3ZXNvbWUubWluLmNzczs" file="d:\Code\Umbraco\App_Data\TEMP\ClientDependency\1_4f7ba70f4061497b82a20125d1b9d40a.cdC" compression="gzip" version="1">
+    <files>
+      <file name="/umbraco/assets/css/umbraco.css" />
+      <file name="/umbraco/lib/bootstrap-social/bootstrap-social.css" />
+      <file name="/umbraco/lib/font-awesome/css/font-awesome.min.css" />
+    </files>
+  </item>
+  <item key="L0FwcF9QbHVnaW5zL1N0YXJ0ZXJraXQvc3RhcnRlcmtpdGhlbHAuY29udHJvbGxlci5qczsvQXBwX1BsdWdpbnMvU3RhcnRlcmtpdC90b3Vycy92aWV3cy9tZWRpYWxpYnJhcnkvdXBsb2FkaW1hZ2VzLmNvbnRyb2xsZXIuanM7L0FwcF9QbHVnaW5zL1N0YXJ0ZXJraXQvdG91cnMvdmlld3MvdmFsaWRhdGV0ZXh0LmNvbnRyb2xsZXIuanM7" file="d:\Code\Umbraco\App_Data\TEMP\ClientDependency\1_fccd0870ece1460fae701875307549b1.cdJ" compression="gzip" version="1">
+    <files>
+      <file name="/App_Plugins/Starterkit/starterkithelp.controller.js" />
+      <file name="/App_Plugins/Starterkit/tours/views/medialibrary/uploadimages.controller.js" />
+      <file name="/App_Plugins/Starterkit/tours/views/validatetext.controller.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY28vbGliL2pxdWVyeS9qcXVlcnkubWluLmpzOy91bWJyYWNvL2xpYi9qcXVlcnktdWkvanF1ZXJ5LXVpLm1pbi5qczsvdW1icmFjby9saWIvanF1ZXJ5LXVpLXRvdWNoLXB1bmNoL2pxdWVyeS51aS50b3VjaC1wdW5jaC5taW4uanM7L3VtYnJhY28vbGliL2FuZ3VsYXIvYW5ndWxhci5qczsvdW1icmFjby9saWIvdW5kZXJzY29yZS91bmRlcnNjb3JlLW1pbi5qczsvdW1icmFjby9saWIvbW9tZW50L21vbWVudC5taW4uanM7L3VtYnJhY28vbGliL2ZsYXRwaWNrci9mbGF0cGlja3IuanM7L3VtYnJhY28vbGliL2FuaW1lanMvYW5pbWUubWluLmpzOy91bWJyYWNvL2xpYi9hbmd1bGFyLXJvdXRlL2FuZ3VsYXItcm91dGUuanM7L3VtYnJhY28vbGliL2FuZ3VsYXItY29va2llcy9hbmd1bGFyLWNvb2tpZXMuanM7L3VtYnJhY28vbGliL2FuZ3VsYXItYXJpYS9hbmd1bGFyLWFyaWEubWluLmpzOy91bWJyYWNvL2xpYi9hbmd1bGFyLXRvdWNoL2FuZ3VsYXItdG91Y2guanM7L3VtYnJhY28vbGliL2FuZ3VsYXItc2FuaXRpemUvYW5ndWxhci1zYW5pdGl6ZS5qczsvdW1icmFjby9saWIvYW5ndWxhci1hbmltYXRlL2FuZ3VsYXItYW5pbWF0ZS5qczsvdW1icmFjby9saWIvYW5ndWxhci1tZXNzYWdlcy9hbmd1bGFyLW1lc3NhZ2VzLmpzOy91bWJyYWNvL2xpYi9hbmd1bGFyLXVpLXNvcnRhYmxlL3NvcnRhYmxlLmpzOy91bWJyYWNvL2xpYi9hbmd1bGFyLWR5bmFtaWMtbG9jYWxlL3RtaER5bmFtaWNMb2NhbGUubWluLmpzOy91bWJyYWNvL2xpYi9uZy1maWxlLXVwbG9hZC9uZy1maWxlLXVwbG9hZC5taW4uanM7L3VtYnJhY28vbGliL2FuZ3VsYXItbG9jYWwtc3RvcmFnZS9hbmd1bGFyLWxvY2FsLXN0b3JhZ2UubWluLmpzOy91bWJyYWNvL2xpYi9jaGFydC5qcy9jaGFydC5taW4uanM7L3VtYnJhY28vbGliL2FuZ3VsYXItY2hhcnQuanMvYW5ndWxhci1jaGFydC5taW4uanM7L3VtYnJhY28vbGliL3dpY2ctaW5lcnQvZGlzdC9pbmVydC5taW4uanM7L3VtYnJhY28vbGliL3VtYnJhY28vRXh0ZW5zaW9ucy5qczsvdW1icmFjby9saWIvdW1icmFjby9OYW1lc3BhY2VNYW5hZ2VyLmpzOy91bWJyYWNvL2xpYi91bWJyYWNvL0xlZ2FjeVNwZWVjaEJ1YmJsZS5qczsvdW1icmFjby9qcy91dGlsaXRpZXMuanM7L3VtYnJhY28vanMvYXBwLmpzOy91bWJyYWNvL2pzL3VtYnJhY28ucmVzb3VyY2VzLmpzOy91bWJyYWNvL2pzL3VtYnJhY28uZGlyZWN0aXZlcy5qczsvdW1icmFjby9qcy91bWJyYWNvLmZpbHRlcnMuanM7L3VtYnJhY28vanMvdW1icmFjby5zZXJ2aWNlcy5qczsvdW1icmFjby9qcy91bWJyYWNvLmludGVyY2VwdG9ycy5qczsvdW1icmFjby9qcy91bWJyYWNvLmNvbnRyb2xsZXJzLmpzOy91bWJyYWNvL2pzL3JvdXRlcy5qczsvdW1icmFjby9qcy9pbml0LmpzOy9BcHBfUGx1Z2lucy9Pc21NYXBzL09zbU1hcHMuY29udHJvbGxlci5qczsvQXBwX1BsdWdpbnMvU3RhcnRlcmtpdC9sZXNzb25zLnNlcnZpY2UuanM7" file="d:\Code\Umbraco\App_Data\TEMP\ClientDependency\1_e662eae40e4143038eb05cb00b1d42ce.cdJ" compression="gzip" version="1">
+    <files>
+      <file name="/umbraco/lib/jquery/jquery.min.js" />
+      <file name="/umbraco/lib/jquery-ui/jquery-ui.min.js" />
+      <file name="/umbraco/lib/jquery-ui-touch-punch/jquery.ui.touch-punch.min.js" />
+      <file name="/umbraco/lib/angular/angular.js" />
+      <file name="/umbraco/lib/underscore/underscore-min.js" />
+      <file name="/umbraco/lib/moment/moment.min.js" />
+      <file name="/umbraco/lib/flatpickr/flatpickr.js" />
+      <file name="/umbraco/lib/animejs/anime.min.js" />
+      <file name="/umbraco/lib/angular-route/angular-route.js" />
+      <file name="/umbraco/lib/angular-cookies/angular-cookies.js" />
+      <file name="/umbraco/lib/angular-aria/angular-aria.min.js" />
+      <file name="/umbraco/lib/angular-touch/angular-touch.js" />
+      <file name="/umbraco/lib/angular-sanitize/angular-sanitize.js" />
+      <file name="/umbraco/lib/angular-animate/angular-animate.js" />
+      <file name="/umbraco/lib/angular-messages/angular-messages.js" />
+      <file name="/umbraco/lib/angular-ui-sortable/sortable.js" />
+      <file name="/umbraco/lib/angular-dynamic-locale/tmhDynamicLocale.min.js" />
+      <file name="/umbraco/lib/ng-file-upload/ng-file-upload.min.js" />
+      <file name="/umbraco/lib/angular-local-storage/angular-local-storage.min.js" />
+      <file name="/umbraco/lib/chart.js/chart.min.js" />
+      <file name="/umbraco/lib/angular-chart.js/angular-chart.min.js" />
+      <file name="/umbraco/lib/wicg-inert/dist/inert.min.js" />
+      <file name="/umbraco/lib/umbraco/Extensions.js" />
+      <file name="/umbraco/lib/umbraco/NamespaceManager.js" />
+      <file name="/umbraco/lib/umbraco/LegacySpeechBubble.js" />
+      <file name="/umbraco/js/utilities.js" />
+      <file name="/umbraco/js/app.js" />
+      <file name="/umbraco/js/umbraco.resources.js" />
+      <file name="/umbraco/js/umbraco.directives.js" />
+      <file name="/umbraco/js/umbraco.filters.js" />
+      <file name="/umbraco/js/umbraco.services.js" />
+      <file name="/umbraco/js/umbraco.interceptors.js" />
+      <file name="/umbraco/js/umbraco.controllers.js" />
+      <file name="/umbraco/js/routes.js" />
+      <file name="/umbraco/js/init.js" />
+      <file name="/App_Plugins/OsmMaps/OsmMaps.controller.js" />
+      <file name="/App_Plugins/Starterkit/lessons.service.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY28vbGliL3RpbnltY2UvdGlueW1jZS5taW4uanM7L3VtYnJhY28vbGliL3RpbnltY2UvcGx1Z2lucy9wYXN0ZS9wbHVnaW4ubWluLmpzOy91bWJyYWNvL2xpYi90aW55bWNlL3BsdWdpbnMvYW5jaG9yL3BsdWdpbi5taW4uanM7L3VtYnJhY28vbGliL3RpbnltY2UvcGx1Z2lucy9jaGFybWFwL3BsdWdpbi5taW4uanM7L3VtYnJhY28vbGliL3RpbnltY2UvcGx1Z2lucy90YWJsZS9wbHVnaW4ubWluLmpzOy91bWJyYWNvL2xpYi90aW55bWNlL3BsdWdpbnMvbGlzdHMvcGx1Z2luLm1pbi5qczsvdW1icmFjby9saWIvdGlueW1jZS9wbHVnaW5zL2Fkdmxpc3QvcGx1Z2luLm1pbi5qczsvdW1icmFjby9saWIvdGlueW1jZS9wbHVnaW5zL2hyL3BsdWdpbi5taW4uanM7L3VtYnJhY28vbGliL3RpbnltY2UvcGx1Z2lucy9hdXRvbGluay9wbHVnaW4ubWluLmpzOy91bWJyYWNvL2xpYi90aW55bWNlL3BsdWdpbnMvZGlyZWN0aW9uYWxpdHkvcGx1Z2luLm1pbi5qczsvdW1icmFjby9saWIvdGlueW1jZS9wbHVnaW5zL3RhYmZvY3VzL3BsdWdpbi5taW4uanM7L3VtYnJhY28vbGliL3RpbnltY2UvcGx1Z2lucy9zZWFyY2hyZXBsYWNlL3BsdWdpbi5taW4uanM7L3VtYnJhY28vbGliL3RpbnltY2UvcGx1Z2lucy9mdWxsc2NyZWVuL3BsdWdpbi5taW4uanM7L3VtYnJhY28vbGliL3RpbnltY2UvcGx1Z2lucy9ub25lZGl0YWJsZS9wbHVnaW4ubWluLmpzOw" file="d:\Code\Umbraco\App_Data\TEMP\ClientDependency\1_50700a04358b43f0aef1ae1e89212143.cdJ" compression="gzip" version="1">
+    <files>
+      <file name="/umbraco/lib/tinymce/tinymce.min.js" />
+      <file name="/umbraco/lib/tinymce/plugins/paste/plugin.min.js" />
+      <file name="/umbraco/lib/tinymce/plugins/anchor/plugin.min.js" />
+      <file name="/umbraco/lib/tinymce/plugins/charmap/plugin.min.js" />
+      <file name="/umbraco/lib/tinymce/plugins/table/plugin.min.js" />
+      <file name="/umbraco/lib/tinymce/plugins/lists/plugin.min.js" />
+      <file name="/umbraco/lib/tinymce/plugins/advlist/plugin.min.js" />
+      <file name="/umbraco/lib/tinymce/plugins/hr/plugin.min.js" />
+      <file name="/umbraco/lib/tinymce/plugins/autolink/plugin.min.js" />
+      <file name="/umbraco/lib/tinymce/plugins/directionality/plugin.min.js" />
+      <file name="/umbraco/lib/tinymce/plugins/tabfocus/plugin.min.js" />
+      <file name="/umbraco/lib/tinymce/plugins/searchreplace/plugin.min.js" />
+      <file name="/umbraco/lib/tinymce/plugins/fullscreen/plugin.min.js" />
+      <file name="/umbraco/lib/tinymce/plugins/noneditable/plugin.min.js" />
+    </files>
+  </item>
+  <item key="L0FwcF9QbHVnaW5zL1VtYnJhY29Gb3Jtcy9jc3MvdW1icmFjby5mb3Jtcy5jc3M7" file="d:\Code\Umbraco\App_Data\TEMP\ClientDependency\1_0f0db6d5598e4391bc5d7072b9e7454c.cdC" compression="gzip" version="1">
+    <files>
+      <file name="/App_Plugins/UmbracoForms/css/umbraco.forms.css" />
+    </files>
+  </item>
+  <item key="L0FwcF9QbHVnaW5zL1N0YXJ0ZXJraXQvc3RhcnRlcmtpdGhlbHAuY29udHJvbGxlci5qczsvQXBwX1BsdWdpbnMvU3RhcnRlcmtpdC90b3Vycy92aWV3cy9tZWRpYWxpYnJhcnkvdXBsb2FkaW1hZ2VzLmNvbnRyb2xsZXIuanM7L0FwcF9QbHVnaW5zL1N0YXJ0ZXJraXQvdG91cnMvdmlld3MvdmFsaWRhdGV0ZXh0LmNvbnRyb2xsZXIuanM7L0FwcF9QbHVnaW5zL1VtYnJhY29Gb3Jtcy9qcy91bWJyYWNvLmZvcm1zLmpzOw" file="d:\Code\Umbraco\App_Data\TEMP\ClientDependency\1_11cf1545ee634c518366c4ab5ec540c6.cdJ" compression="gzip" version="1">
+    <files>
+      <file name="/App_Plugins/Starterkit/starterkithelp.controller.js" />
+      <file name="/App_Plugins/Starterkit/tours/views/medialibrary/uploadimages.controller.js" />
+      <file name="/App_Plugins/Starterkit/tours/views/validatetext.controller.js" />
+      <file name="/App_Plugins/UmbracoForms/js/umbraco.forms.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY28vYXNzZXRzL2Nzcy91bWJyYWNvLmNzczsvdW1icmFjby9saWIvYm9vdHN0cmFwLXNvY2lhbC9ib290c3RyYXAtc29jaWFsLmNzczsvdW1icmFjby9saWIvZm9udC1hd2Vzb21lL2Nzcy9mb250LWF3ZXNvbWUubWluLmNzczs" file="d:\Code\Umbraco\App_Data\TEMP\ClientDependency\1225356274_62a3c1b9144e4c6d91e465b026df84de.cdC" compression="gzip" version="1225356274">
+    <files>
+      <file name="/umbraco/assets/css/umbraco.css" />
+      <file name="/umbraco/lib/bootstrap-social/bootstrap-social.css" />
+      <file name="/umbraco/lib/font-awesome/css/font-awesome.min.css" />
+    </files>
+  </item>
+  <item key="L0FwcF9QbHVnaW5zL1N0YXJ0ZXJraXQvc3RhcnRlcmtpdGhlbHAuY29udHJvbGxlci5qczsvQXBwX1BsdWdpbnMvU3RhcnRlcmtpdC90b3Vycy92aWV3cy9tZWRpYWxpYnJhcnkvdXBsb2FkaW1hZ2VzLmNvbnRyb2xsZXIuanM7L0FwcF9QbHVnaW5zL1N0YXJ0ZXJraXQvdG91cnMvdmlld3MvdmFsaWRhdGV0ZXh0LmNvbnRyb2xsZXIuanM7L0FwcF9QbHVnaW5zL1VJT01hdGljL2JhY2tvZmZpY2UvYXNzZXRzL2pzL2FuZ3VsYXItcmVsYXRpdmUtZGF0ZS5qczsvQXBwX1BsdWdpbnMvVUlPTWF0aWMvYmFja29mZmljZS9hc3NldHMvanMvbW9tZW50LXdpdGgtbG9jYWxlcy5qczsvQXBwX1BsdWdpbnMvVUlPTWF0aWMvYmFja29mZmljZS9hc3NldHMvanMvYm9vdHN0cmFwLWRhdGV0aW1lcGlja2VyLmpzOy9BcHBfUGx1Z2lucy9VSU9NYXRpYy9iYWNrb2ZmaWNlL2ltcG9ydHMuanM7L0FwcF9QbHVnaW5zL1VJT01hdGljL2JhY2tvZmZpY2Uvc2VydmljZXMvdXRpbGl0eS5zZXJ2aWNlLmpzOy9BcHBfUGx1Z2lucy9VSU9NYXRpYy9iYWNrb2ZmaWNlL2RpcmVjdGl2ZXMvcGFnaW5hdGlvbi5kaXJlY3RpdmUuanM7L0FwcF9QbHVnaW5zL1VJT01hdGljL2JhY2tvZmZpY2UvcmVzb3VyY2VzL3Vpb01hdGljT2JqZWN0LnJlc291cmNlLmpzOy9BcHBfUGx1Z2lucy9VSU9NYXRpYy9iYWNrb2ZmaWNlL3Jlc291cmNlcy91aW9NYXRpY0ZpZWxkLnJlc291cmNlLmpzOy9BcHBfUGx1Z2lucy9VSU9NYXRpYy9iYWNrb2ZmaWNlL3Jlc291cmNlcy91aW9NYXRpY1Byb3BlcnR5RWRpdG9yLnJlc291cmNlLmpzOy9BcHBfUGx1Z2lucy9VSU9NYXRpYy9iYWNrb2ZmaWNlL3Vpb21hdGljL2VkaXQuY29udHJvbGxlci5qczsvQXBwX1BsdWdpbnMvVUlPTWF0aWMvYmFja29mZmljZS91aW9tYXRpYy9kZWxldGUuY29udHJvbGxlci5qczsvQXBwX1BsdWdpbnMvVUlPTWF0aWMvYmFja29mZmljZS91aW9tYXRpYy9saXN0LmNvbnRyb2xsZXIuanM7L0FwcF9QbHVnaW5zL1VJT01hdGljL2JhY2tvZmZpY2Uvdmlld3MvZmllbGRlZGl0b3JzL2ZpbGUuY29udHJvbGxlci5qczsvQXBwX1BsdWdpbnMvVUlPTWF0aWMvYmFja29mZmljZS92aWV3cy9maWVsZGVkaXRvcnMvZGF0ZXRpbWUuY29udHJvbGxlci5qczsvQXBwX1BsdWdpbnMvVUlPTWF0aWMvYmFja29mZmljZS92aWV3cy9maWVsZGVkaXRvcnMvZHJvcGRvd24uY29udHJvbGxlci5qczsvQXBwX1BsdWdpbnMvVUlPTWF0aWMvYmFja29mZmljZS92aWV3cy9maWVsZGVkaXRvcnMvcGlja2Vycy5jb250ZW50LmNvbnRyb2xsZXIuanM7L0FwcF9QbHVnaW5zL1VJT01hdGljL2JhY2tvZmZpY2Uvdmlld3MvZmllbGRlZGl0b3JzL3BpY2tlcnMubWVkaWEuY29udHJvbGxlci5qczsvQXBwX1BsdWdpbnMvVUlPTWF0aWMvYmFja29mZmljZS92aWV3cy9maWVsZGVkaXRvcnMvcGlja2Vycy5tZW1iZXIuY29udHJvbGxlci5qczs" file="d:\Code\Umbraco\App_Data\TEMP\ClientDependency\1225356274_f38c0d1a1fa74376bcaddb68eb58283f.cdJ" compression="gzip" version="1225356274">
+    <files>
+      <file name="/App_Plugins/Starterkit/starterkithelp.controller.js" />
+      <file name="/App_Plugins/Starterkit/tours/views/medialibrary/uploadimages.controller.js" />
+      <file name="/App_Plugins/Starterkit/tours/views/validatetext.controller.js" />
+      <file name="/App_Plugins/UIOMatic/backoffice/assets/js/angular-relative-date.js" />
+      <file name="/App_Plugins/UIOMatic/backoffice/assets/js/moment-with-locales.js" />
+      <file name="/App_Plugins/UIOMatic/backoffice/assets/js/bootstrap-datetimepicker.js" />
+      <file name="/App_Plugins/UIOMatic/backoffice/imports.js" />
+      <file name="/App_Plugins/UIOMatic/backoffice/services/utility.service.js" />
+      <file name="/App_Plugins/UIOMatic/backoffice/directives/pagination.directive.js" />
+      <file name="/App_Plugins/UIOMatic/backoffice/resources/uioMaticObject.resource.js" />
+      <file name="/App_Plugins/UIOMatic/backoffice/resources/uioMaticField.resource.js" />
+      <file name="/App_Plugins/UIOMatic/backoffice/resources/uioMaticPropertyEditor.resource.js" />
+      <file name="/App_Plugins/UIOMatic/backoffice/uiomatic/edit.controller.js" />
+      <file name="/App_Plugins/UIOMatic/backoffice/uiomatic/delete.controller.js" />
+      <file name="/App_Plugins/UIOMatic/backoffice/uiomatic/list.controller.js" />
+      <file name="/App_Plugins/UIOMatic/backoffice/views/fieldeditors/file.controller.js" />
+      <file name="/App_Plugins/UIOMatic/backoffice/views/fieldeditors/datetime.controller.js" />
+      <file name="/App_Plugins/UIOMatic/backoffice/views/fieldeditors/dropdown.controller.js" />
+      <file name="/App_Plugins/UIOMatic/backoffice/views/fieldeditors/pickers.content.controller.js" />
+      <file name="/App_Plugins/UIOMatic/backoffice/views/fieldeditors/pickers.media.controller.js" />
+      <file name="/App_Plugins/UIOMatic/backoffice/views/fieldeditors/pickers.member.controller.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY28vbGliL2pxdWVyeS9qcXVlcnkubWluLmpzOy91bWJyYWNvL2xpYi9qcXVlcnktdWkvanF1ZXJ5LXVpLm1pbi5qczsvdW1icmFjby9saWIvanF1ZXJ5LXVpLXRvdWNoLXB1bmNoL2pxdWVyeS51aS50b3VjaC1wdW5jaC5taW4uanM7L3VtYnJhY28vbGliL2FuZ3VsYXIvYW5ndWxhci5qczsvdW1icmFjby9saWIvdW5kZXJzY29yZS91bmRlcnNjb3JlLW1pbi5qczsvdW1icmFjby9saWIvbW9tZW50L21vbWVudC5taW4uanM7L3VtYnJhY28vbGliL2ZsYXRwaWNrci9mbGF0cGlja3IuanM7L3VtYnJhY28vbGliL2FuaW1lanMvYW5pbWUubWluLmpzOy91bWJyYWNvL2xpYi9hbmd1bGFyLXJvdXRlL2FuZ3VsYXItcm91dGUuanM7L3VtYnJhY28vbGliL2FuZ3VsYXItY29va2llcy9hbmd1bGFyLWNvb2tpZXMuanM7L3VtYnJhY28vbGliL2FuZ3VsYXItYXJpYS9hbmd1bGFyLWFyaWEubWluLmpzOy91bWJyYWNvL2xpYi9hbmd1bGFyLXRvdWNoL2FuZ3VsYXItdG91Y2guanM7L3VtYnJhY28vbGliL2FuZ3VsYXItc2FuaXRpemUvYW5ndWxhci1zYW5pdGl6ZS5qczsvdW1icmFjby9saWIvYW5ndWxhci1hbmltYXRlL2FuZ3VsYXItYW5pbWF0ZS5qczsvdW1icmFjby9saWIvYW5ndWxhci1tZXNzYWdlcy9hbmd1bGFyLW1lc3NhZ2VzLmpzOy91bWJyYWNvL2xpYi9hbmd1bGFyLXVpLXNvcnRhYmxlL3NvcnRhYmxlLmpzOy91bWJyYWNvL2xpYi9hbmd1bGFyLWR5bmFtaWMtbG9jYWxlL3RtaER5bmFtaWNMb2NhbGUubWluLmpzOy91bWJyYWNvL2xpYi9uZy1maWxlLXVwbG9hZC9uZy1maWxlLXVwbG9hZC5taW4uanM7L3VtYnJhY28vbGliL2FuZ3VsYXItbG9jYWwtc3RvcmFnZS9hbmd1bGFyLWxvY2FsLXN0b3JhZ2UubWluLmpzOy91bWJyYWNvL2xpYi9jaGFydC5qcy9jaGFydC5taW4uanM7L3VtYnJhY28vbGliL2FuZ3VsYXItY2hhcnQuanMvYW5ndWxhci1jaGFydC5taW4uanM7L3VtYnJhY28vbGliL3dpY2ctaW5lcnQvZGlzdC9pbmVydC5taW4uanM7L3VtYnJhY28vbGliL3VtYnJhY28vRXh0ZW5zaW9ucy5qczsvdW1icmFjby9saWIvdW1icmFjby9OYW1lc3BhY2VNYW5hZ2VyLmpzOy91bWJyYWNvL2xpYi91bWJyYWNvL0xlZ2FjeVNwZWVjaEJ1YmJsZS5qczsvdW1icmFjby9qcy91dGlsaXRpZXMuanM7L3VtYnJhY28vanMvYXBwLmpzOy91bWJyYWNvL2pzL3VtYnJhY28ucmVzb3VyY2VzLmpzOy91bWJyYWNvL2pzL3VtYnJhY28uZGlyZWN0aXZlcy5qczsvdW1icmFjby9qcy91bWJyYWNvLmZpbHRlcnMuanM7L3VtYnJhY28vanMvdW1icmFjby5zZXJ2aWNlcy5qczsvdW1icmFjby9qcy91bWJyYWNvLmludGVyY2VwdG9ycy5qczsvdW1icmFjby9qcy91bWJyYWNvLmNvbnRyb2xsZXJzLmpzOy91bWJyYWNvL2pzL3JvdXRlcy5qczsvdW1icmFjby9qcy9pbml0LmpzOy9BcHBfUGx1Z2lucy9Pc21NYXBzL09zbU1hcHMuY29udHJvbGxlci5qczsvQXBwX1BsdWdpbnMvU3RhcnRlcmtpdC9sZXNzb25zLnNlcnZpY2UuanM7" file="d:\Code\Umbraco\App_Data\TEMP\ClientDependency\1225356274_449a6434161641e5b9c24654b894be91.cdJ" compression="gzip" version="1225356274">
+    <files>
+      <file name="/umbraco/lib/jquery/jquery.min.js" />
+      <file name="/umbraco/lib/jquery-ui/jquery-ui.min.js" />
+      <file name="/umbraco/lib/jquery-ui-touch-punch/jquery.ui.touch-punch.min.js" />
+      <file name="/umbraco/lib/angular/angular.js" />
+      <file name="/umbraco/lib/underscore/underscore-min.js" />
+      <file name="/umbraco/lib/moment/moment.min.js" />
+      <file name="/umbraco/lib/flatpickr/flatpickr.js" />
+      <file name="/umbraco/lib/animejs/anime.min.js" />
+      <file name="/umbraco/lib/angular-route/angular-route.js" />
+      <file name="/umbraco/lib/angular-cookies/angular-cookies.js" />
+      <file name="/umbraco/lib/angular-aria/angular-aria.min.js" />
+      <file name="/umbraco/lib/angular-touch/angular-touch.js" />
+      <file name="/umbraco/lib/angular-sanitize/angular-sanitize.js" />
+      <file name="/umbraco/lib/angular-animate/angular-animate.js" />
+      <file name="/umbraco/lib/angular-messages/angular-messages.js" />
+      <file name="/umbraco/lib/angular-ui-sortable/sortable.js" />
+      <file name="/umbraco/lib/angular-dynamic-locale/tmhDynamicLocale.min.js" />
+      <file name="/umbraco/lib/ng-file-upload/ng-file-upload.min.js" />
+      <file name="/umbraco/lib/angular-local-storage/angular-local-storage.min.js" />
+      <file name="/umbraco/lib/chart.js/chart.min.js" />
+      <file name="/umbraco/lib/angular-chart.js/angular-chart.min.js" />
+      <file name="/umbraco/lib/wicg-inert/dist/inert.min.js" />
+      <file name="/umbraco/lib/umbraco/Extensions.js" />
+      <file name="/umbraco/lib/umbraco/NamespaceManager.js" />
+      <file name="/umbraco/lib/umbraco/LegacySpeechBubble.js" />
+      <file name="/umbraco/js/utilities.js" />
+      <file name="/umbraco/js/app.js" />
+      <file name="/umbraco/js/umbraco.resources.js" />
+      <file name="/umbraco/js/umbraco.directives.js" />
+      <file name="/umbraco/js/umbraco.filters.js" />
+      <file name="/umbraco/js/umbraco.services.js" />
+      <file name="/umbraco/js/umbraco.interceptors.js" />
+      <file name="/umbraco/js/umbraco.controllers.js" />
+      <file name="/umbraco/js/routes.js" />
+      <file name="/umbraco/js/init.js" />
+      <file name="/App_Plugins/OsmMaps/OsmMaps.controller.js" />
+      <file name="/App_Plugins/Starterkit/lessons.service.js" />
+    </files>
+  </item>
+  <item key="L0FwcF9QbHVnaW5zL1VJT01hdGljL2JhY2tvZmZpY2Uvdmlld3MvZmllbGRlZGl0b3JzL3BpY2tlcnMudXNlci5jb250cm9sbGVyLmpzOy9BcHBfUGx1Z2lucy9VSU9NYXRpYy9iYWNrb2ZmaWNlL3ZpZXdzL2ZpZWxkZWRpdG9ycy9waWNrZXJzLnVzZXJzLmNvbnRyb2xsZXIuanM7L0FwcF9QbHVnaW5zL1VJT01hdGljL2JhY2tvZmZpY2Uvdmlld3MvZmllbGRlZGl0b3JzL2NoZWNrYm94bGlzdC5jb250cm9sbGVyLmpzOy9BcHBfUGx1Z2lucy9VSU9NYXRpYy9iYWNrb2ZmaWNlL3ZpZXdzL2ZpZWxkZWRpdG9ycy9yYWRpb2J1dHRvbmxpc3QuY29udHJvbGxlci5qczsvQXBwX1BsdWdpbnMvVUlPTWF0aWMvYmFja29mZmljZS92aWV3cy9maWVsZGVkaXRvcnMvbGFiZWwuY29udHJvbGxlci5qczsvQXBwX1BsdWdpbnMvVUlPTWF0aWMvYmFja29mZmljZS92aWV3cy9maWVsZGVkaXRvcnMvbGlzdC5jb250cm9sbGVyLmpzOy9BcHBfUGx1Z2lucy9VSU9NYXRpYy9iYWNrb2ZmaWNlL3ZpZXdzL2ZpZWxkZWRpdG9ycy9ydGUuY29udHJvbGxlci5qczsvQXBwX1BsdWdpbnMvVUlPTWF0aWMvYmFja29mZmljZS92aWV3cy9maWVsZGVkaXRvcnMvbWFwLmNvbnRyb2xsZXIuanM7L0FwcF9QbHVnaW5zL1VJT01hdGljL2JhY2tvZmZpY2Uvdmlld3MvZmllbGRlZGl0b3JzL2xpbmsuY29udHJvbGxlci5qczsvQXBwX1BsdWdpbnMvVUlPTWF0aWMvYmFja29mZmljZS92aWV3cy9maWVsZGZpbHRlcnMvZHJvcGRvd24uY29udHJvbGxlci5qczsvQXBwX1BsdWdpbnMvVUlPTWF0aWMvYmFja29mZmljZS92aWV3cy9wcm9wZXJ0eWVkaXRvcnMvZHJvcGRvd24uY29udHJvbGxlci5qczsvQXBwX1BsdWdpbnMvVUlPTWF0aWMvYmFja29mZmljZS92aWV3cy9wcm9wZXJ0eWVkaXRvcnMvbGlzdHZpZXcuY29udHJvbGxlci5qczsvQXBwX1BsdWdpbnMvVUlPTWF0aWMvYmFja29mZmljZS92aWV3cy9wcm9wZXJ0eWVkaXRvcnMvbGlzdHZpZXcuZGlhbG9nLmNvbnRyb2xsZXIuanM7L0FwcF9QbHVnaW5zL1VJT01hdGljL2JhY2tvZmZpY2Uvdmlld3MvcHJvcGVydHllZGl0b3JzL211bHRpcGlja2VyLmNvbnRyb2xsZXIuanM7L0FwcF9QbHVnaW5zL1VJT01hdGljL2JhY2tvZmZpY2Uvdmlld3MvcHJvcGVydHllZGl0b3JzL3BpY2tlcnMudHlwZS5jb250cm9sbGVyLmpzOy9BcHBfUGx1Z2lucy9VSU9NYXRpYy9iYWNrb2ZmaWNlL3ZpZXdzL3Byb3BlcnR5ZWRpdG9ycy9waWNrZXJzLnByb3BlcnR5LmNvbnRyb2xsZXIuanM7L0FwcF9QbHVnaW5zL1VJT01hdGljL2JhY2tvZmZpY2Uvdmlld3MvcHJvcGVydHllZGl0b3JzL3BpY2tlcnMuY29sdW1uLmNvbnRyb2xsZXIuanM7L0FwcF9QbHVnaW5zL1VJT01hdGljL2JhY2tvZmZpY2Uvdmlld3MvZGlhbG9ncy9vYmplY3RzZWFyY2hlci5jb250cm9sbGVyLmpzOy9BcHBfUGx1Z2lucy9VSU9NYXRpYy9iYWNrb2ZmaWNlL3ZpZXdzL2Rhc2hib2FyZHMvc3VtbWFyeWRhc2hib2FyZC5jb250cm9sbGVyLmpzOw" file="d:\Code\Umbraco\App_Data\TEMP\ClientDependency\1225356274_64e166e6dc814168b6ed33595d9425b4.cdJ" compression="gzip" version="1225356274">
+    <files>
+      <file name="/App_Plugins/UIOMatic/backoffice/views/fieldeditors/pickers.user.controller.js" />
+      <file name="/App_Plugins/UIOMatic/backoffice/views/fieldeditors/pickers.users.controller.js" />
+      <file name="/App_Plugins/UIOMatic/backoffice/views/fieldeditors/checkboxlist.controller.js" />
+      <file name="/App_Plugins/UIOMatic/backoffice/views/fieldeditors/radiobuttonlist.controller.js" />
+      <file name="/App_Plugins/UIOMatic/backoffice/views/fieldeditors/label.controller.js" />
+      <file name="/App_Plugins/UIOMatic/backoffice/views/fieldeditors/list.controller.js" />
+      <file name="/App_Plugins/UIOMatic/backoffice/views/fieldeditors/rte.controller.js" />
+      <file name="/App_Plugins/UIOMatic/backoffice/views/fieldeditors/map.controller.js" />
+      <file name="/App_Plugins/UIOMatic/backoffice/views/fieldeditors/link.controller.js" />
+      <file name="/App_Plugins/UIOMatic/backoffice/views/fieldfilters/dropdown.controller.js" />
+      <file name="/App_Plugins/UIOMatic/backoffice/views/propertyeditors/dropdown.controller.js" />
+      <file name="/App_Plugins/UIOMatic/backoffice/views/propertyeditors/listview.controller.js" />
+      <file name="/App_Plugins/UIOMatic/backoffice/views/propertyeditors/listview.dialog.controller.js" />
+      <file name="/App_Plugins/UIOMatic/backoffice/views/propertyeditors/multipicker.controller.js" />
+      <file name="/App_Plugins/UIOMatic/backoffice/views/propertyeditors/pickers.type.controller.js" />
+      <file name="/App_Plugins/UIOMatic/backoffice/views/propertyeditors/pickers.property.controller.js" />
+      <file name="/App_Plugins/UIOMatic/backoffice/views/propertyeditors/pickers.column.controller.js" />
+      <file name="/App_Plugins/UIOMatic/backoffice/views/dialogs/objectsearcher.controller.js" />
+      <file name="/App_Plugins/UIOMatic/backoffice/views/dashboards/summarydashboard.controller.js" />
+    </files>
+  </item>
+  <item key="L0FwcF9QbHVnaW5zL1VJT01hdGljL2JhY2tvZmZpY2UvYXBwcy91aW9tYXRpY0NvbnRlbnQuY29udHJvbGxlci5qczsvQXBwX1BsdWdpbnMvVW1icmFjb0Zvcm1zL2pzL3VtYnJhY28uZm9ybXMuanM7L0FwcF9QbHVnaW5zL3hTdGF0aWMvZGFzaGJvYXJkcy9NYWluRGFzaGJvYXJkLmpzOy9BcHBfUGx1Z2lucy94U3RhdGljL2ZpZWxkcy9FeHBvcnRUeXBlRmllbGQuanM7L0FwcF9QbHVnaW5zL3hTdGF0aWMvZmllbGRzL0RlcGxveW1lbnRUYXJnZXRGaWVsZC5qczsvQXBwX1BsdWdpbnMveFN0YXRpYy9maWVsZHMvbXVsdGlwaWNrZXIuanM7" file="d:\Code\Umbraco\App_Data\TEMP\ClientDependency\1225356274_bb3e28ea5e944a57913f9a7cdc163b7f.cdJ" compression="gzip" version="1225356274">
+    <files>
+      <file name="/App_Plugins/UIOMatic/backoffice/apps/uiomaticContent.controller.js" />
+      <file name="/App_Plugins/UmbracoForms/js/umbraco.forms.js" />
+      <file name="/App_Plugins/xStatic/dashboards/MainDashboard.js" />
+      <file name="/App_Plugins/xStatic/fields/ExportTypeField.js" />
+      <file name="/App_Plugins/xStatic/fields/DeploymentTargetField.js" />
+      <file name="/App_Plugins/xStatic/fields/multipicker.js" />
+    </files>
+  </item>
+  <item key="L0FwcF9QbHVnaW5zL1VJT01hdGljL2JhY2tvZmZpY2UvYXNzZXRzL2Nzcy91aW9tYXRpYy5jc3M7L0FwcF9QbHVnaW5zL1VJT01hdGljL2JhY2tvZmZpY2UvYXNzZXRzL2Nzcy9ib290c3RyYXAtZGF0ZXRpbWVwaWNrZXIubWluLmNzczsvQXBwX1BsdWdpbnMvVW1icmFjb0Zvcm1zL2Nzcy91bWJyYWNvLmZvcm1zLmNzczsvQXBwX1BsdWdpbnMveFN0YXRpYy9maWVsZHMvRGVwbG95bWVudFRhcmdldEZpZWxkLmNzczsvQXBwX1BsdWdpbnMveFN0YXRpYy9jc3MveFN0YXRpYy5jc3M7" file="d:\Code\Umbraco\App_Data\TEMP\ClientDependency\1225356274_7027cdc4db1642e1817c9944ba79e2d9.cdC" compression="gzip" version="1225356274">
+    <files>
+      <file name="/App_Plugins/UIOMatic/backoffice/assets/css/uiomatic.css" />
+      <file name="/App_Plugins/UIOMatic/backoffice/assets/css/bootstrap-datetimepicker.min.css" />
+      <file name="/App_Plugins/UmbracoForms/css/umbraco.forms.css" />
+      <file name="/App_Plugins/xStatic/fields/DeploymentTargetField.css" />
+      <file name="/App_Plugins/xStatic/css/xStatic.css" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY28vbGliL3RpbnltY2UvdGlueW1jZS5taW4uanM7L3VtYnJhY28vbGliL3RpbnltY2UvcGx1Z2lucy9wYXN0ZS9wbHVnaW4ubWluLmpzOy91bWJyYWNvL2xpYi90aW55bWNlL3BsdWdpbnMvYW5jaG9yL3BsdWdpbi5taW4uanM7L3VtYnJhY28vbGliL3RpbnltY2UvcGx1Z2lucy9jaGFybWFwL3BsdWdpbi5taW4uanM7L3VtYnJhY28vbGliL3RpbnltY2UvcGx1Z2lucy90YWJsZS9wbHVnaW4ubWluLmpzOy91bWJyYWNvL2xpYi90aW55bWNlL3BsdWdpbnMvbGlzdHMvcGx1Z2luLm1pbi5qczsvdW1icmFjby9saWIvdGlueW1jZS9wbHVnaW5zL2Fkdmxpc3QvcGx1Z2luLm1pbi5qczsvdW1icmFjby9saWIvdGlueW1jZS9wbHVnaW5zL2hyL3BsdWdpbi5taW4uanM7L3VtYnJhY28vbGliL3RpbnltY2UvcGx1Z2lucy9hdXRvbGluay9wbHVnaW4ubWluLmpzOy91bWJyYWNvL2xpYi90aW55bWNlL3BsdWdpbnMvZGlyZWN0aW9uYWxpdHkvcGx1Z2luLm1pbi5qczsvdW1icmFjby9saWIvdGlueW1jZS9wbHVnaW5zL3RhYmZvY3VzL3BsdWdpbi5taW4uanM7L3VtYnJhY28vbGliL3RpbnltY2UvcGx1Z2lucy9zZWFyY2hyZXBsYWNlL3BsdWdpbi5taW4uanM7L3VtYnJhY28vbGliL3RpbnltY2UvcGx1Z2lucy9mdWxsc2NyZWVuL3BsdWdpbi5taW4uanM7L3VtYnJhY28vbGliL3RpbnltY2UvcGx1Z2lucy9ub25lZGl0YWJsZS9wbHVnaW4ubWluLmpzOw" file="d:\Code\Umbraco\App_Data\TEMP\ClientDependency\1225356274_4f51e876e4244af5b3befd7eb8408232.cdJ" compression="gzip" version="1225356274">
+    <files>
+      <file name="/umbraco/lib/tinymce/tinymce.min.js" />
+      <file name="/umbraco/lib/tinymce/plugins/paste/plugin.min.js" />
+      <file name="/umbraco/lib/tinymce/plugins/anchor/plugin.min.js" />
+      <file name="/umbraco/lib/tinymce/plugins/charmap/plugin.min.js" />
+      <file name="/umbraco/lib/tinymce/plugins/table/plugin.min.js" />
+      <file name="/umbraco/lib/tinymce/plugins/lists/plugin.min.js" />
+      <file name="/umbraco/lib/tinymce/plugins/advlist/plugin.min.js" />
+      <file name="/umbraco/lib/tinymce/plugins/hr/plugin.min.js" />
+      <file name="/umbraco/lib/tinymce/plugins/autolink/plugin.min.js" />
+      <file name="/umbraco/lib/tinymce/plugins/directionality/plugin.min.js" />
+      <file name="/umbraco/lib/tinymce/plugins/tabfocus/plugin.min.js" />
+      <file name="/umbraco/lib/tinymce/plugins/searchreplace/plugin.min.js" />
+      <file name="/umbraco/lib/tinymce/plugins/fullscreen/plugin.min.js" />
+      <file name="/umbraco/lib/tinymce/plugins/noneditable/plugin.min.js" />
+    </files>
+  </item>
+</map>
